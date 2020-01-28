@@ -22,7 +22,7 @@ const styles = theme => ({
   },
   title: {
     padding:`${theme.spacing.unit * 3}px ${theme.spacing.unit * 2.5}px ${theme.spacing.unit * 2}px`,
-    color: theme.palette.text.secondary
+    color: theme.palette.text.primary
   },
   media: {
     minHeight: 330
